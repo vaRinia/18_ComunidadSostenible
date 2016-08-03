@@ -1,0 +1,81 @@
+.logo {
+	width: 50%;
+}
+.bor-der {
+	border-right: 1px solid gray;
+	padding: 0px 20px;
+}
+ul {
+	list-style: none;
+}
+li {
+	display: inline-block;
+	margin: 20px 0px;
+	text-align: center;
+}
+.bg-supergray {	
+	background-color: #44423F;
+}
+nav ul :last-child { 
+	margin-left: 20px; 
+}
+.back {
+	background-image: url("../img/semilla.jpg");
+	height: 400px;
+}
+header p {
+	padding:60px 90px;
+}
+.text-gg {
+	color:gray;
+}
+.backnos1 {
+	background-image: url("../img/metodo.JPG");
+	height: 300px;
+}
+.backnos2 {
+	background-image: url("../img/fondo.jpg");
+	height: 300px;
+}
+h2 {
+	margin-bottom: 2%;
+}
+.img-cir{
+	border-radius: 100%;
+}
+.equipos img {
+	width: 35%;
+	margin: 3%;
+}
+.pd-0-10 {
+	padding: 0% 10%;}
+.back-bl {
+	background-image: url("../img/fondo2.jpg");
+}
+.blogs{
+	width: 350px;
+	margin: auto;
+}
+.slider { 
+	margin-top: 130px; }
+td img {
+	width: 45px;
+	float: right;
+}
+table {
+	width: 100%;
+	height: 200px;	
+	border: solid white 1px;
+}
+td {
+	padding-right: 20px; 
+}
+.br-r {
+	border-right: 1px solid white;
+}
+.pd-2 {
+	padding: 2%;
+}
+.mg-l-10{
+	margin-left: 10%;
+}
