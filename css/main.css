@@ -15,6 +15,10 @@ li {
 .bg-supergray {	
 	background-color: #44423F;
 }
+nav {
+	position: fixed;
+	text-align: right;
+}
 nav ul :last-child { 
 	margin-left: 20px; 
 }
